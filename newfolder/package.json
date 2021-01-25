@@ -1,0 +1,27 @@
+{
+  "name": "pomodoro-timer",
+  "version": "1.0.0",
+  "description": "A JavaScript timer to practice the Pomodoro Technique. Part of 100 JavaScript Projects.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnasai21/java-script-projects/pomodoro-timer.git"
+  },
+  "keywords": [
+    "gulp",
+    "sass",
+    "mocha",
+    "javascript",
+    "html5"
+  ],
+  "author": "krishnasai21",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krishnasai21/java-script-projects/pomodoro-timer/issues"
+  },
+  "homepage": "https://github.com/krishnasai21/java-script-projects/pomodoro-timer#readme",
+
+}
