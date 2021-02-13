@@ -14,5 +14,4 @@ Display movie choices and seats in a theater to select from in order to purchase
 ## Live-Demo
 [seat-booking-for-a-movie](https://github.com/krishnasai21/Java-Script-Project/tree/master/seat-booking-for-a-movie)   
 
-| [Live Demo](https://vanillawebprojects.com/projects/movie-seat-booking/)  |
 
